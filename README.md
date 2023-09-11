@@ -25,5 +25,5 @@ Android Developer passionate about the Mobile area. Seeking a challenging positi
 
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=google&logoColor=0E76A8)](mailto:jmparedesx@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joao-manoel-oliveira-paredes/)
+[![Mail](https://img.shields.io/badge/jmparedesx@gmail.com-000?style=for-the-badge&logo=google&logoColor=0E76A8)](mailto:jmparedesx@gmail.com)
